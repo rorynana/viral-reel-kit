@@ -1,0 +1,5 @@
+__pycache__/
+episodes/*/
+!episodes/예시_spec.json
+themes/mine/
+_인계_*.md

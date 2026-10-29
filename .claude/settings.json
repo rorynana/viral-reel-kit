@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python tools/*)",
+      "PowerShell(py tools/*)",
+      "PowerShell(python -m pip install *)",
+      "PowerShell(py -m pip install *)",
+      "Bash(python tools/*)",
+      "Bash(py tools/*)",
+      "Bash(python -m pip install *)",
+      "Bash(py -m pip install *)",
+      "Read",
+      "Edit(episodes/**)",
+      "Write(episodes/**)"
+    ]
+  }
+}
